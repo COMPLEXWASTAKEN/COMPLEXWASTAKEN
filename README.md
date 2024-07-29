@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ---
 
-## 🌱 I’m currently learning
+## 🌱 Currently Learning
 - 🚀 **C#**: Focusing on advanced game development techniques and building robust software applications.
 - 🎨 **Unity**: Mastering this powerful game engine to bring my game ideas to life.
 - 🤖 **Machine Learning**: Exploring the fascinating world of AI and its applications in gaming and software development.
@@ -26,6 +26,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=COMPLEXWASTAKEN&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=COMPLEXWASTAKEN&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMPLEXWASTAKEN&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -43,7 +45,15 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 📫 How to reach me
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> `complex091`
+  <a href="https://discord.com/users/complex091"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
+---
+
+## 📂 Featured Repositories
+<p align="center">
+  <a href="https://github.com/COMPLEXWASTAKEN/NsfwApiScraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=Project1&theme=radical"></a>
+  <a href="https://github.com/COMPLEXWASTAKEN/CoreVrAccountSpammer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=Project2&theme=radical"></a>
 </p>
 
 ---
