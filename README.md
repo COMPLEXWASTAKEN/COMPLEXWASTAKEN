@@ -57,6 +57,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 <p align="center">
   <a href="https://github.com/COMPLEXWASTAKEN/CoreVrAccountSpammer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=CoreVrAccountSpammer&theme=radical"></a>
   <a href="https://github.com/COMPLEXWASTAKEN/NsfwApiScraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=NsfwApiScraper&theme=radical"></a>
+    <a href="https://github.com/COMPLEXWASTAKEN/Vrchat-Cache-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrchat-Cache-Scanner&repo=NsfwApiScraper&theme=radical"></a>
+
 </p>
 
 ---
