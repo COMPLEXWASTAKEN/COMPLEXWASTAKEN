@@ -52,8 +52,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 📂 Featured Repositories
 <p align="center">
-  <a href="https://github.com/COMPLEXWASTAKEN/NsfwApiScraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=Project1&theme=radical"></a>
-  <a href="https://github.com/COMPLEXWASTAKEN/CoreVrAccountSpammer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=Project2&theme=radical"></a>
+  <a href="https://github.com/COMPLEXWASTAKEN/CoreVrAccountSpammer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=CoreVrAccountSpammer&theme=radical"></a>
+  <a href="https://github.com/COMPLEXWASTAKEN/NsfwApiScraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=NsfwApiScraper&theme=radical"></a>
 </p>
 
 ---
