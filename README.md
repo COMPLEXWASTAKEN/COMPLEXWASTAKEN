@@ -28,6 +28,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
   <img src="https://github-readme-stats.vercel.app/api?username=COMPLEXWASTAKEN&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=COMPLEXWASTAKEN&theme=radical" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMPLEXWASTAKEN&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=COMPLEXWASTAKEN&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 ---
@@ -57,7 +58,6 @@ Welcome to my GitHub profile! Here's a little bit about me:
 <p align="center">
   <a href="https://github.com/COMPLEXWASTAKEN/CoreVrAccountSpammer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=CoreVrAccountSpammer&theme=radical"></a>
   <a href="https://github.com/COMPLEXWASTAKEN/Vrchat-Cache-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=COMPLEXWASTAKEN&repo=Vrchat-Cache-Scanner&theme=radical"></a>
-
 </p>
 
 ---
